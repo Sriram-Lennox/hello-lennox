@@ -27,7 +27,7 @@ This is a repository to practice using Git and GitHub.
   * Infanty Rajan
   * Syed Mohamad Yusuf
   * Gnana Sekar
-  * Sriram
+  * Sriram- Web and Mobility
   * Santhosh
   * Raju
   * Arunachalam
